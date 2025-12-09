@@ -1,6 +1,6 @@
 # Henry
 My personal repository（我的个人仓库）
-| Rank | THING-TO-RANK |
+| 序号  |     爱好      |
 |-----:|---------------|
 |     1|               |
 |     2|               |
